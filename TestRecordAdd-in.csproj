@@ -35,7 +35,7 @@
     <Reference Include="System.Core" />
     <Reference Include="Microsoft.CSharp" />
     <Reference Include="TRIM.SDK">
-      <HintPath>..\..\..\Documents\Visual Studio 2019\source\references\TRIM SDK\x64\23.4.1.111\TRIM.SDK.dll</HintPath>
+      <HintPath>..\..\..\..\..\Program Files\Micro Focus\Content Manager\TRIM.SDK.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
